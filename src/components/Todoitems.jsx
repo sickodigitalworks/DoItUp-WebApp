@@ -1,6 +1,7 @@
 import React from 'react'
 import tickon from '/src/assets/tick.png'
 import tickoff from '/src/assets/not-tick.png'
+import deleteicon from '/src/assets/delete.png'
 
 const Todoitems = ({text, id, isComplete, deleteTodo, toggle}) => {
   return (
@@ -9,7 +10,7 @@ const Todoitems = ({text, id, isComplete, deleteTodo, toggle}) => {
             <img src={isComplete ? tickon : tickoff} alt="" className='w-7'/>
             <p className={`text-slate-700 ml-4 text-[17px] ${isComplete ? "line-through" : ""}`}>{text}</p>
         </div>
-        <img onClick={()=>{deleteTodo(id)}} src="\src\assets\delete.png" alt="" className='w-5 cursor-pointer'/>
+        <img onClick={()=>{deleteTodo(id)}} src={deleteicon} alt="" className='w-5 cursor-pointer'/>
     </div>
     
   )
