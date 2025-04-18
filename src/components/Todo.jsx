@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Todoitems from './Todoitems'
-import logoapp from './src/assets/tudoicon.png'
+import logoapp from './src/assets/logoapp.png'
 
 
 const Todo = () => {
