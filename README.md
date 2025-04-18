@@ -1,6 +1,6 @@
-# To-Do List App
+# DoItUp | To-Do List Web App
 
-App made by Sicko Digital Works © 2025 in ReactJS.
+App made by Sicko Digital Works © 2025 in ReactJS. Available at 
 
 ## Version Log
 
