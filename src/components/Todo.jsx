@@ -51,7 +51,7 @@ useEffect(()=>{
         {/* ------ title ------ */}
         <div className='flex items-center mt-7 gap-2'>
             <img className='w-8' src='\src\assets\todoicon.png' alt="" />
-            <h1 className='text-4x1 font-semibold'>To-Do List</h1>
+            <h1 className='text-6x1 font-semibold'>DoItUp</h1>
         </div>
 
         {/* ------ input task ------ */}
