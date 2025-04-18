@@ -6,4 +6,5 @@ Available for free at
 
 ## Version Log
 
-- Version 1.0.0 | 18.04.2025
+- Version 1.0.0 | 18.04.2025 at 03:50 AM
+- Version 1.0.1 | 18.04.2025 at 03:58 AM
