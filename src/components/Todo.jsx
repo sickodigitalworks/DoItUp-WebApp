@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Todoitems from './Todoitems'
-import tudoicon from '/src/assets/tudoicon.png'
+import logoapp from './src/assets/tudoicon.png'
 
 
 const Todo = () => {
@@ -51,7 +51,7 @@ useEffect(()=>{
 
         {/* ------ title ------ */}
         <div className='flex items-center mt-7 gap-2'>
-            <img className='w-8' src={todoicon} alt="" />
+            <img className='w-8' src={logoapp} alt="" />
             <h1 className='text-6x1 font-semibold'>DoItUp</h1>
         </div>
 
