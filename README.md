@@ -2,7 +2,7 @@
 
 App made by Sicko Digital Works © 2025 in ReactJS. 
 
-Available for free at 
+Available for free at https://doitup.pages.dev/
 
 ## Version Log
 
